@@ -1,0 +1,14 @@
+{
+    "id": "pdf-merge",
+    "name": "Объединить PDF",
+    "description": "Объедините несколько PDF файлов в один документ",
+    "category": "pdf",
+    "icon": "📑",
+    "tags": ["pdf", "merge", "объединить", "склеить", "соединить", "документ"],
+    "accepts": ["application/pdf"],
+    "max_files": 20,
+    "max_file_size": "50MB",
+    "supports_paste": false,
+    "supports_bulk": true,
+    "order": 1
+}

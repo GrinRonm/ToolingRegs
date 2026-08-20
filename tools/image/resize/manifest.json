@@ -1,0 +1,14 @@
+{
+    "id": "image-resize",
+    "name": "Изменение размера",
+    "description": "Измените размер изображений с сохранением пропорций",
+    "category": "image",
+    "icon": "📐",
+    "tags": ["resize", "размер", "ресайз", "ширина", "высота", "масштаб"],
+    "accepts": ["image/jpeg", "image/png", "image/webp"],
+    "max_files": 10,
+    "max_file_size": "50MB",
+    "supports_paste": true,
+    "supports_bulk": true,
+    "order": 3
+}

@@ -1,0 +1,14 @@
+{
+    "id": "image-compress",
+    "name": "Сжатие изображений",
+    "description": "Уменьшите размер JPG, PNG и WEBP без потери качества. Массовая загрузка.",
+    "category": "image",
+    "icon": "🗜️",
+    "tags": ["compress", "сжатие", "jpg", "png", "webp", "размер", "оптимизация", "quality"],
+    "accepts": ["image/jpeg", "image/png", "image/webp"],
+    "max_files": 20,
+    "max_file_size": "50MB",
+    "supports_paste": true,
+    "supports_bulk": true,
+    "order": 1
+}

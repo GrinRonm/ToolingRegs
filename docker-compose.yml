@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  instyment:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./storage:/var/www/html/storage
+    restart: unless-stopped

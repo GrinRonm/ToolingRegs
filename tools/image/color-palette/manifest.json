@@ -1,0 +1,9 @@
+{
+    "id": "image-color-palette",
+    "name": "Палитра цветов",
+    "description": "Извлечение основных цветов из изображения",
+    "category": "image",
+    "icon": "🎨",
+    "tags": ["palette", "color", "hex", "цвета", "палитра", "дизайн"],
+    "order": 14
+}

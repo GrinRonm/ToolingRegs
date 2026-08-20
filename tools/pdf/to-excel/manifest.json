@@ -1,0 +1,9 @@
+{
+    "id": "pdf-to-excel",
+    "name": "PDF в Excel (.xlsx)",
+    "description": "Извлечение таблиц из PDF и конвертация их в Excel.",
+    "category": "pdf",
+    "icon": "📊",
+    "tags": ["pdf", "excel", "xlsx", "таблицы", "конвертер"],
+    "order": 18
+}

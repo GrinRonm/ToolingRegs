@@ -1,0 +1,12 @@
+{
+    "id": "base64",
+    "name": "Base64 Кодирование",
+    "description": "Кодирование и декодирование текста и файлов в Base64",
+    "category": "dev",
+    "icon": "🔐",
+    "tags": ["base64", "encode", "decode", "кодирование", "декодирование"],
+    "accepts": [],
+    "max_files": 0,
+    "supports_paste": false,
+    "order": 2
+}

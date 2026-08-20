@@ -1,0 +1,9 @@
+{
+    "id": "jwt-decoder",
+    "name": "JWT Декодер",
+    "description": "Мгновенная расшифровка данных из JWT токена без отправки на сервер.",
+    "category": "dev",
+    "icon": "🔐",
+    "tags": ["jwt", "decoder", "token", "декодер", "токен", "json"],
+    "order": 10
+}

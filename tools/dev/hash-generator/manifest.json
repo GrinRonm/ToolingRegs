@@ -1,0 +1,12 @@
+{
+    "id": "hash-generator",
+    "name": "Hash Generator",
+    "description": "Генерация хэшей MD5, SHA1, SHA256, SHA512 из текста",
+    "category": "dev",
+    "icon": "#️⃣",
+    "tags": ["hash", "md5", "sha1", "sha256", "sha512", "хэш", "контрольная сумма"],
+    "accepts": [],
+    "max_files": 0,
+    "supports_paste": false,
+    "order": 3
+}

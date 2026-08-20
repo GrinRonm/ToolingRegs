@@ -1,0 +1,9 @@
+{
+    "id": "image-remove-bg",
+    "name": "Удаление фона (AI)",
+    "description": "Автоматически удаляет фон с фотографий с помощью нейросети.",
+    "category": "image",
+    "icon": "✨",
+    "tags": ["rembg", "background", "ai", "удаление", "фон", "прозрачный", "png"],
+    "order": 15
+}

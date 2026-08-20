@@ -1,0 +1,9 @@
+{
+    "id": "code-formatter",
+    "name": "Форматировщик кода",
+    "description": "Автоматическое форматирование (beautify) и минификация для JSON, HTML, CSS, SQL, JS.",
+    "category": "dev",
+    "icon": "✨",
+    "tags": ["format", "beautify", "minify", "json", "html", "css", "sql", "js", "код"],
+    "order": 12
+}

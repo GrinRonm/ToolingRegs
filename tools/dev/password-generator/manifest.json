@@ -1,0 +1,12 @@
+{
+    "id": "password-generator",
+    "name": "Генератор паролей",
+    "description": "Создайте надёжный и безопасный пароль с настройками длины и символов",
+    "category": "dev",
+    "icon": "🔑",
+    "tags": ["password", "generator", "пароль", "генератор", "безопасность", "random"],
+    "accepts": [],
+    "max_files": 0,
+    "supports_paste": false,
+    "order": 5
+}

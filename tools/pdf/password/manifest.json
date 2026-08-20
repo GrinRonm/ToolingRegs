@@ -1,0 +1,9 @@
+{
+    "id": "pdf-password",
+    "name": "Установка пароля на PDF",
+    "description": "Защита PDF документа надежным паролем.",
+    "category": "pdf",
+    "icon": "🔒",
+    "tags": ["pdf", "password", "пароль", "защита", "зашифровать", "encrypt"],
+    "order": 16
+}

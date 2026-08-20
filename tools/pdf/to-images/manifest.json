@@ -1,0 +1,13 @@
+{
+    "id": "pdf-to-images",
+    "name": "PDF → Изображения",
+    "description": "Конвертируйте страницы PDF в изображения JPG или PNG",
+    "category": "pdf",
+    "icon": "🖼️",
+    "tags": ["pdf", "jpg", "png", "конвертация", "страницы", "изображения"],
+    "accepts": ["application/pdf"],
+    "max_files": 1,
+    "max_file_size": "50MB",
+    "supports_paste": false,
+    "order": 4
+}

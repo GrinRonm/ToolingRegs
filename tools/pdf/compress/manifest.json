@@ -1,0 +1,13 @@
+{
+    "id": "pdf-compress",
+    "name": "Сжатие PDF",
+    "description": "Уменьшите размер PDF файла без потери качества",
+    "category": "pdf",
+    "icon": "📦",
+    "tags": ["pdf", "compress", "сжатие", "размер", "оптимизация"],
+    "accepts": ["application/pdf"],
+    "max_files": 1,
+    "max_file_size": "50MB",
+    "supports_paste": false,
+    "order": 3
+}

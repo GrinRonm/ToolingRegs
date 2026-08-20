@@ -1,0 +1,12 @@
+{
+    "id": "qr-generator",
+    "name": "QR-код генератор",
+    "description": "Создайте QR-код из текста, URL или любых данных",
+    "category": "dev",
+    "icon": "📱",
+    "tags": ["qr", "qr-code", "генератор", "url", "ссылка"],
+    "accepts": [],
+    "max_files": 0,
+    "supports_paste": false,
+    "order": 4
+}

@@ -1,0 +1,9 @@
+{
+    "id": "pdf-to-word",
+    "name": "PDF в Word (.docx)",
+    "description": "Конвертация PDF документа в редактируемый формат Word.",
+    "category": "pdf",
+    "icon": "📄",
+    "tags": ["pdf", "word", "docx", "конвертер", "текст"],
+    "order": 17
+}

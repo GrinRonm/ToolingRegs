@@ -1,0 +1,14 @@
+{
+    "id": "pdf-split",
+    "name": "Разделить PDF",
+    "description": "Разделите PDF файл на отдельные страницы",
+    "category": "pdf",
+    "icon": "✂️",
+    "tags": ["pdf", "split", "разделить", "страницы", "разрезать"],
+    "accepts": ["application/pdf"],
+    "max_files": 1,
+    "max_file_size": "50MB",
+    "supports_paste": false,
+    "supports_bulk": false,
+    "order": 2
+}
